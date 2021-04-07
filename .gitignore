@@ -1,0 +1,7 @@
+*.txt
+*.RData
+*.pdf
+*.list
+*.ipynb
+.ipynb_checkpoints/
+*.log
